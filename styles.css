@@ -1,0 +1,36 @@
+.list {background-color: lightblue;
+color:midnightblue;
+line-height:200%;
+text-align: center;
+padding-left: 0;
+margin:0}
+
+.list-element{color:white;
+    font-family: 'Courier New', Courier, monospace;
+text-align: center;
+list-style-position:inside;}
+
+.list-element.odd{background-color: lightgrey;
+background-size: 300px;
+color: midnightblue;}
+
+.header{text-align: center;
+font-family: 'Courier New', Courier, monospace;
+background-color: steelblue;
+background-size: 10%;
+height:10%;
+padding:5%;
+margin:0;;
+border:3px;
+border-color: midnightblue;}
+
+html {background-color: lightsteelblue;
+    background-size: cover;}
+
+.image{border: 10px;
+border-color: steelblue;
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 60%;
+border-style: outset;}
